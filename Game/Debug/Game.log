@@ -1,0 +1,37 @@
+﻿  Botao.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\Botao.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Cavaleiro.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Corpo.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Ente.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Entidade.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Escudeiro.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Espinho.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Esqueleto.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Fase.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Fase_Primeira.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Fase_Segunda.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Gerenciador_Colisoes.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Gerenciador_Evento.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\Gerenciador_Evento.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Gerenciador_Grafico.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\Gerenciador_Grafico.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Inimigo.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Jogador.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Jogo.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Main.cpp
+C:\Users\Fernando\Documents\Faculdade\2º Período\Técnicas De Programação\Trabalho\TecProg-S73-Camila_Fernando\AKnightsTale\Game\Game\G_Vetor2.h(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/System/Vector2.hpp': No such file or directory
+  Menu.cpp
